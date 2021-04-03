@@ -1,0 +1,5 @@
+{
+    "prettier.tabWidth": 4,
+    "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+    "prettier.useTabs": true
+}
